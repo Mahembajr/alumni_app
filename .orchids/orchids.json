@@ -1,8 +1,0 @@
-{
-  "startupCommands": [
-    "cd /home/user/app/backend && pip install fastapi uvicorn[standard] python-jose[cryptography] passlib[bcrypt] python-multipart sqlalchemy -q; uvicorn main:app --reload --port 8000",
-    "cd /home/user/app/frontend && npm install; npm run dev"
-  ],
-  "projectId": "fe00ecbe-1f09-4f12-a739-cb01e2968719",
-  "templateId": "any"
-}
