@@ -6,6 +6,4 @@ __pycache__/
 *.db
 *.db-shm
 *.db-wal
-# .env # Removed by Orchids to allow .env files
-# .env.local # Removed by Orchids to allow .env files
 backend/__pycache__/
