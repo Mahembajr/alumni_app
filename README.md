@@ -254,7 +254,7 @@ alumni_app/
 │       ├── api.js       # Axios API client
 │       └── App.jsx      # Routes & app entry point
 │
-└── .orchids/            # Orchids.app project config
+
 ```
 
 ---
